@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://ukocpmipa.github.io/mipa/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ukocpmipa.github.io/mipa/" rel="alternate" type="text/html" /><updated>2019-07-09T09:50:29+01:00</updated><id>https://ukocpmipa.github.io/mipa/</id><title type="html">Modern Indirect Provider Assessment Portal</title><subtitle>Knowledge base template for MIPA.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><entry><title type="html">Technology Thought Leadership</title><link href="https://ukocpmipa.github.io/mipa/community/technology-thought-leadership/" rel="alternate" type="text/html" title="Technology Thought Leadership" /><published>2017-01-16T00:00:00+00:00</published><updated>2017-01-16T00:00:00+00:00</updated><id>https://ukocpmipa.github.io/mipa/community/technology-thought-leadership</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/community/technology-thought-leadership/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="https://ukocpmipa.github.io/mipa/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ukocpmipa.github.io/mipa/" rel="alternate" type="text/html" /><updated>2019-07-09T10:19:40+01:00</updated><id>https://ukocpmipa.github.io/mipa/</id><title type="html">Modern Indirect Provider Assessment Portal</title><subtitle>Knowledge base template for MIPA.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><entry><title type="html">Maintain CSP platform</title><link href="https://ukocpmipa.github.io/mipa/ops-excellence/up-to-date-platform/" rel="alternate" type="text/html" title="Maintain CSP platform" /><published>2019-07-09T00:00:00+01:00</published><updated>2019-07-09T00:00:00+01:00</updated><id>https://ukocpmipa.github.io/mipa/ops-excellence/up-to-date-platform</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/ops-excellence/up-to-date-platform/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;An up-to-date platform is critical to providing an excellent experience for reseller partners. Whether developed in-house, or bought from a third party, it’s imperative that indirect providers use platforms which are enabled to take advantage of the developing capabilities of the CSP program. As new SKUs (such as Azure RIs) are added, resellers look immediately to use them. Opportunities can be won or lost by an indirect provider’s ability to fulfil. If the platform is out of date, an indirect provider may lose business to the competition whose platform is not.&lt;/p&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+
+&lt;h2 id=&quot;scoring&quot;&gt;Scoring&lt;/h2&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><summary type="html">Description</summary></entry><entry><title type="html">Learning-as-a-Service</title><link href="https://ukocpmipa.github.io/mipa/skills-development/learning-as-a-service/" rel="alternate" type="text/html" title="Learning-as-a-Service" /><published>2019-07-09T00:00:00+01:00</published><updated>2019-07-09T00:00:00+01:00</updated><id>https://ukocpmipa.github.io/mipa/skills-development/learning-as-a-service</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/skills-development/learning-as-a-service/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Microsoft Learning Partners are an excellent way to scale the delivery of in-house training and enablement of your reseller channel. They provide world-class Microsoft Certified Trainers to help you skill-up in the way that makes most sense for your business. They also offer on-demand courses accessible anywhere, anytime. The Microsoft Learning Partner network delivers flexible, solutions-based, customised training across a wide range of Microsoft technologies.&lt;/p&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+
+&lt;h2 id=&quot;scoring&quot;&gt;Scoring&lt;/h2&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><summary type="html">Description</summary></entry><entry><title type="html">Technology Thought Leadership</title><link href="https://ukocpmipa.github.io/mipa/community/technology-thought-leadership/" rel="alternate" type="text/html" title="Technology Thought Leadership" /><published>2017-01-16T00:00:00+00:00</published><updated>2017-01-16T00:00:00+00:00</updated><id>https://ukocpmipa.github.io/mipa/community/technology-thought-leadership</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/community/technology-thought-leadership/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;As the breadth of possibility for the use of technology to transform customers and partners increases, having a strong leadership presence in the channel is a way for indirect providers to differentiate themselves. Providing technology thought leadership is just one example of this and it can take many forms.&lt;/p&gt;
 
@@ -20,103 +32,7 @@
 
 &lt;h4 id=&quot;event-speaking&quot;&gt;Event speaking&lt;/h4&gt;
 
-&lt;h2 id=&quot;scoring&quot;&gt;Scoring&lt;/h2&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><summary type="html">Description</summary></entry><entry><title type="html">Urban</title><link href="https://ukocpmipa.github.io/mipa/skills-development/urban/" rel="alternate" type="text/html" title="Urban" /><published>2017-01-16T00:00:00+00:00</published><updated>2017-01-16T00:00:00+00:00</updated><id>https://ukocpmipa.github.io/mipa/skills-development/urban</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/skills-development/urban/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
-
-&lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-install&quot;&gt;How to install&lt;/h2&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# Install Jekyll and Bundler gems through RubyGems&lt;/span&gt;
-~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;gem &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;jekyll bundler
-
-&lt;span class=&quot;c&quot;&gt;# Create a new Jekyll site at ./myblog&lt;/span&gt;
-~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll new myblog
-
-&lt;span class=&quot;c&quot;&gt;# Change into your new directory&lt;/span&gt;
-~ &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;myblog
-
-&lt;span class=&quot;c&quot;&gt;# Build the site on the preview server&lt;/span&gt;
-~/myblog &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
-
-&lt;span class=&quot;c&quot;&gt;# Now browse to http://localhost:4000&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
-
-&lt;p&gt;Building a Jekyll site with the default theme is just the first step. The real magic happens when you start creating blog posts, using the front matter to control templates and layouts, and taking advantage of all the awesome configuration options Jekyll makes available.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-usage&quot;&gt;Basic usage&lt;/h2&gt;
-
-&lt;p&gt;The Jekyll gem makes a &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt; executable available to you in your Terminal window. You can use this command in a number of ways:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The current folder will be generated into ./_site&lt;/span&gt;
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build &lt;span class=&quot;nt&quot;&gt;--destination&lt;/span&gt; &amp;lt;destination&amp;gt;
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The current folder will be generated into &amp;lt;destination&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build &lt;span class=&quot;nt&quot;&gt;--source&lt;/span&gt; &amp;lt;&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--destination&lt;/span&gt; &amp;lt;destination&amp;gt;
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The &amp;lt;source&amp;gt; folder will be generated into &amp;lt;destination&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;jekyll build &lt;span class=&quot;nt&quot;&gt;--watch&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# =&amp;gt; The current folder will be generated into ./_site,&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;#    watched for changes, and regenerated automatically.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;directory-structure&quot;&gt;Directory structure&lt;/h2&gt;
-
-&lt;p&gt;Jekyll is, at its core, a text transformation engine. The concept behind the system is this: you give it text written in your favorite markup language, be that Markdown, Textile, or just plain HTML, and it churns that through a layout or a series of layout files. Throughout that process you can tweak how you want the site URLs to look, what data gets displayed in the layout, and more. This is all done through editing text files; the static web site is the final product.&lt;/p&gt;
-
-&lt;p&gt;A basic Jekyll site usually looks something like this:&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
-├── _config.yml
-├── _data
-|   └── members.yml
-├── _drafts
-|   ├── begin-with-the-crazy-ideas.md
-|   └── on-simplicity-in-technology.md
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-|   ├── default.html
-|   └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
-|   └── 2009-04-26-barcamp-boston-4-roundup.md
-├── _sass
-|   ├── _base.scss
-|   └── _layout.scss
-├── _site
-├── .jekyll-metadata
-└── index.html &lt;span class=&quot;c&quot;&gt;# can also be an 'index.md' with valid YAML Frontmatter&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;front-matter&quot;&gt;Front matter&lt;/h2&gt;
-
-&lt;p&gt;The front matter is where Jekyll starts to get really cool. Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
-layout: post
-title: Blogging Like a Hacker
----
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Between these triple-dashed lines, you can set predefined variables (see below for a reference) or even create custom ones of your own. These variables will then be available to you to access using Liquid tags both further down in the file and also in any layouts or includes that the page or post in question relies on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1481487196290-c152efe083f5?ixlib=rb-0.3.5&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;cs=tinysrgb&amp;amp;w=1920&amp;amp;h=1080&amp;amp;fit=crop&amp;amp;s=80308172730757a7db0434987fa985f3&quot; alt=&quot;Example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;where-additional-pages-live&quot;&gt;Where additional pages live&lt;/h2&gt;
-
-&lt;p&gt;Where you put HTML or Markdown files for pages depends on how you want the pages to work. There are two main ways of creating pages:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Place named HTML or Markdown files for each page in your site’s root folder.&lt;/li&gt;
-  &lt;li&gt;Place pages inside folders and subfolders named whatever you want.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Both methods work fine (and can be used in conjunction with each other), with the only real difference being the resulting URLs. By default, pages retain the same folder structure in &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt; as they do in the source directory.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><summary type="html">Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</summary></entry><entry><title type="html">Competencies</title><link href="https://ukocpmipa.github.io/mipa/ops-excellence/competencies/" rel="alternate" type="text/html" title="Competencies" /><published>2017-01-15T00:00:00+00:00</published><updated>2017-01-15T00:00:00+00:00</updated><id>https://ukocpmipa.github.io/mipa/ops-excellence/competencies</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/ops-excellence/competencies/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+&lt;h2 id=&quot;scoring&quot;&gt;Scoring&lt;/h2&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;&quot;MicrosoftUK&quot;}</name></author><summary type="html">Description</summary></entry><entry><title type="html">Competencies</title><link href="https://ukocpmipa.github.io/mipa/ops-excellence/competencies/" rel="alternate" type="text/html" title="Competencies" /><published>2017-01-15T00:00:00+00:00</published><updated>2017-01-15T00:00:00+00:00</updated><id>https://ukocpmipa.github.io/mipa/ops-excellence/competencies</id><content type="html" xml:base="https://ukocpmipa.github.io/mipa/ops-excellence/competencies/">&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;There are many different types of Microsoft Partner, from a regular Microsoft Partner Network member through to ones who’ve invested in advanced speclisations such as becoming an Azure Expert MSP. What helps differentiate them is the level of competency they’ve achieved.&lt;/p&gt;
 

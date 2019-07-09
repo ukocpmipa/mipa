@@ -521,6 +521,7 @@ header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
   color: #fff; }
   header form {
     position: relative; }
